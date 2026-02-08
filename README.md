@@ -1,4 +1,4 @@
-# SafeGate (SecuraCore)
+# SafeGate 
 
 SafeGate is a role-based society management system designed to manage visitor entry, security operations, complaint handling, and package tracking in a residential society.
 
